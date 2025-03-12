@@ -47,6 +47,7 @@ public class Main {
         System.out.println(NumberOfUnits);
         totalTime=NumberOfUnits*hoursPerUnit;
         System.out.println(" Если в компании работает " + NumberOfUnits + " человек, то всего " + totalTime + " часов работы может быть поделено между сотрудниками. ");
+        //вроде, иправил.
 
 
 
